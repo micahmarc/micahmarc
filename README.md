@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**micahmarc/micahmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @micahmarc
+- 👀 I’m interested in ... Front-End Development
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, Python, and React.
+- 💞️ I’m looking to collaborate on ... any projects, or coding reviews!
+- 📫 How to reach me ... micahmarc16@gmail.com, 6154382500
+- LinkedIn: https://www.linkedin.com/in/micah-palmer-2b7798239/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+micahmarc/micahmarc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
