@@ -1,0 +1,82 @@
+.card {
+    width: 300px;
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: black;
+    padding: 20px 40px;
+    margin: auto;
+
+}
+
+h3 {
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    text-align: center;
+    margin: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+
+    color: white;
+    font-size: 13px;
+    padding: 16px;
+    margin: 10px;
+
+}
+
+
+
+li {
+    color: white;
+    list-style: none;
+    font-size: 13px;
+
+}
+
+.ifrit {
+    width: 300px;
+    padding: 10px 0px;
+    margin: auto;
+
+
+}
+
+.info {
+    width: 300px;
+    margin: auto;
+    padding: -10px -10px;
+    border: solid 3px white;
+    border-radius: 10px;
+
+
+}
+
+
+.stats {
+    color: white;
+    font-weight: bold;
+    list-style-type: none;
+    font-size: 13px;
+
+}
+
+a {
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 10px;
+
+
+}
+
+a:link {
+    background-color: white;
+    border-radius: 6px;
+}
+
+a:hover {
+    color: red;
+}
