@@ -55,6 +55,12 @@ li {
 }
 
 
+.interesting-fact {
+    font-style: italic;
+    
+}
+
+
 .stats {
     color: white;
     font-weight: bold;
