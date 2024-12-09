@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @micahmarc
-- 👀 I’m interested in ... Front-End / iOS Development
+- 👀 I’m interested in ... Front-End Development
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript, and Swift.
 - 💞️ I’m looking to collaborate on ... any projects, or coding reviews!
 - 📫 How to reach me ... micahmarc16@gmail.com
