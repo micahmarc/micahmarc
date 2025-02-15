@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @micahmarc
 - 👀 I’m interested in ... Front-End Development
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, and Swift.
+- 🌱 I’m currently learning ... JavaScript, and Swift.
 - 💞️ I’m looking to collaborate on ... any projects, or coding reviews!
 - 📫 How to reach me ... micahmarc16@gmail.com
 - LinkedIn: https://www.linkedin.com/in/micah-palmer-2b7798239/
